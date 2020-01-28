@@ -1,0 +1,23 @@
+{
+  "name": "naci-denizhan-aydinli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "mongoose": "^5.8.10"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/denizhanaydinli/Node_Deneme.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "",
+  "license": "ISC"
+}
